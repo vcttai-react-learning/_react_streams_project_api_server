@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "stream 1",
+      "description": "this is a great stream!",
+      "id": 1
+    },
+    {
+      "title": "Another streams",
+      "description": "This is also great too.",
+      "id": 2
+    },
+    {
+      "title": "Programmatic navigation",
+      "description": "we will use history to programmatic navigate.",
+      "userId": "105212909856012551475",
+      "id": 4
+    },
+    {
+      "title": "a Stream of vcttai@gmai.com",
+      "description": "another account here",
+      "userId": "107468032786730529978",
+      "id": 5
+    },
+    {
+      "title": "a new stream when refactor",
+      "description": "Refactoring!",
+      "userId": "105212909856012551475",
+      "id": 7
+    }
+  ]
+}
